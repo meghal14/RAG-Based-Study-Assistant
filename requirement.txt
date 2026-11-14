@@ -1,0 +1,24 @@
+# LangChain and LLM
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+langchain-classic
+
+# LLM API and environment variables
+groq
+python-dotenv
+
+# Embeddings and Vector Database
+sentence-transformers
+faiss-cpu
+
+# Document Loading
+pypdf
+python-docx
+docx2txt
+
+# Frontend
+streamlit
